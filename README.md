@@ -1,4 +1,4 @@
-# mango
+# Mango
 
 A To-do list application called Mango
 
